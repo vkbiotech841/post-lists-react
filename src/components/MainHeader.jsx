@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { MdPostAdd, MdMessage } from 'react-icons/md';
 
 import classes from './MainHeader.module.css';

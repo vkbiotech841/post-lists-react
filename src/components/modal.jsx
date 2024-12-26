@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import classes from './modal.module.css';
 
 function Modal(props) {
